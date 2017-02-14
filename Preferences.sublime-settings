@@ -1,17 +1,21 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Fox/fox.dark.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"fade_fold_buttons": false,
-	"font_size": 15.0,
+	"font_face": "Inconsolata",
+	"font_size": 16.0,
+	"hide_minimap": true,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"hide_minimap": true,
-	"theme": "fox.dark.sublime-theme",
+	"tab_size": 2,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }

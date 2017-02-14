@@ -1,20 +1,29 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
-		"3024 Color Scheme",
+		"Agila Theme",
+		"ayu",
+		"Color Highlighter",
+		"CSS Completions",
 		"CSS Extended Completions",
-		"CSSTidy",
-		"Dayle Rees Color Schemes",
 		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Markmon real-time markdown preview",
 		"Package Control",
-		"Predawn",
 		"SCSS",
 		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"Terminal",
-		"Theme - Fox",
 		"WordPress"
 	]
 }
